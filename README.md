@@ -3,6 +3,8 @@
 ## Created for
 https://youtrack.jetbrains.com/issue/WEB-54608
 
+<img width="714" alt="Screenshot 2022-02-02 at 15 43 24" src="https://user-images.githubusercontent.com/13174541/152166478-d7581494-4f0a-4608-9f94-0f454f4075f2.png">
+
 ## How to run project
 
 1. Go to `/projects`;
