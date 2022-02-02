@@ -1,4 +1,7 @@
-# project-1
+# Sample project
+
+## Created for
+https://youtrack.jetbrains.com/issue/WEB-54608
 
 ## How to run project
 
